@@ -1,0 +1,3 @@
+C:/Users/djami/CLionProjects/pyramidAssignment/cmake-build-debug/CMakeFiles/pyramidAssignment.dir
+C:/Users/djami/CLionProjects/pyramidAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/djami/CLionProjects/pyramidAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
